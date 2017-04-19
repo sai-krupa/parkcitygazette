@@ -1,1 +1,1 @@
-# parkcitygazette
+# Park City Gazette
